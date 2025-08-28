@@ -1,8 +1,5 @@
 # 🌐 Virtual Network Interface & VLAN Manager  VLANs-VIRTNETIFACES
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LINUX-OASIS/NETWORKING-VLANS-VIRTNETIFACES/main/.github/assets/VIRTUAL-NIC-VLAN-MANAGER.png" alt="Project Banner" width="600"/>
-</p>
 
 <p align="center">
   A powerful Bash script with a friendly `whiptail` TUI to automate the creation, deletion, and management of virtual network interfaces on Linux.
