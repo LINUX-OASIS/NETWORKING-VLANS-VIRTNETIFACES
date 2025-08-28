@@ -120,10 +120,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 🌐 Links
 
-*   **Open an Issue**
-*   **View Pull Requests**
-*   **See Releases**
-*   **Project Wiki**
+*   [**Open an Issue**](https://github.com/LINUX-OASIS/NETWORKING-VLANS-VIRTNETIFACES/issues)
+*   [**View Pull Requests**](https://github.com/LINUX-OASIS/NETWORKING-VLANS-VIRTNETIFACES/pulls)
+*   [**See Releases**](https://github.com/LINUX-OASIS/NETWORKING-VLANS-VIRTNETIFACES/releases)
+*   [**Project Wiki**](https://github.com/LINUX-OASIS/NETWORKING-VLANS-VIRTNETIFACES/wiki)
 
 ---
 
@@ -137,6 +137,6 @@ This project is distributed under the **GNU General Public License v3.0**. See `
 
 This project is proudly maintained by:
 
-**LINUX-OASIS**
+[**LINUX-OASIS**](https://github.com/LINUX-OASIS)
 
 <p align="center">Made with ❤️ and a lot of coffee.</p>
